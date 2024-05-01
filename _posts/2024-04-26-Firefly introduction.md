@@ -4,7 +4,8 @@ date: 2024-04-26
 ---
 <body>
   <div>
-    <img src = "https://files.yande.re/image/9b27bc9176a56b63a6b2ee21fa912144/yande.re%201157680%20firefly%20honkai:_star_rail%20selfie%20stelle%20tagme.jpg" alt=""/>
+    <img src="https://files.yande.re/image/9b27bc9176a56b63a6b2ee21fa912144/yande.re%201157680%20firefly%20honkai:_star_rail%20selfie%20stelle%20tagme.jpg" alt=""/>
+    <p align="center">Firefly and I</p>
     <p>Firefly is a important people when we are have a walk through Penacony.</p>
     <p>She introduce her self to be our tour guide.</p>
     <p>We have a pretty good time with each other.</p>
@@ -14,6 +15,6 @@ date: 2024-04-26
     <p>                    We will continue after.</p>
   </div>
   <div>
-    <img src = "https://EZconJYYT.ezconnect.to/apps/photogallery?albumId=GE:1714524983" alt = "" />
+    <img src="https://EZconJYYT.ezconnect.to/apps/photogallery?albumId=GE:1714524983" alt="Image description"/>
   </div>
 </body>
