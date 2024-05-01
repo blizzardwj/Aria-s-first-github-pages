@@ -4,7 +4,7 @@ date: 2024-04-26
 ---
 <body>
   <div>
-    <img src="https://files.yande.re/image/9b27bc9176a56b63a6b2ee21fa912144/yande.re%201157680%20firefly%20honkai:_star_rail%20selfie%20stelle%20tagme.jpg" alt=""/>
+    <img src="https://files.yande.re/image/9b27bc9176a56b63a6b2ee21fa912144/yande.re%201157680%20firefly%20honkai:_star_rail%20selfie%20stelle%20tagme.jpg" alt="Image description"/>
     <p align="center">Firefly and I</p>
     <p>Firefly is a important people when we are have a walk through Penacony.</p>
     <p>She introduce her self to be our tour guide.</p>
@@ -13,8 +13,5 @@ date: 2024-04-26
     <p>When the Memory Zone Meme are attack to their target Penacony.</p>
     <p>Our Firefly acidently killed by Memory Zone Meme "Something Unto Death" and then she's gone...</p>
     <p>                    We will continue after.</p>
-  </div>
-  <div>
-    <img src="https://EZconJYYT.ezconnect.to/apps/photogallery?albumId=GE:1714524983" alt="Image description"/>
   </div>
 </body>
