@@ -1,4 +1,6 @@
-theme: minima
-title: Charactor Introduction
-author: Robin
-description: What kind of person is Firefly
+theme: "minima"
+title: "Charactor Introduction"
+author: "Aria"
+description: "What kind of person is Firefly"
+baseurl: "Aria-s-first-github-pages" # change this to your GitHub project name
+url: "https://blizzardwj.github.io" # change this to your GitHub Pages URL
