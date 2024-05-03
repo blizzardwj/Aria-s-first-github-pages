@@ -49,3 +49,7 @@ a:hover {
 
 /* Custom styles for your blog */
 /* Add your own CSS rules here */
+img.march-7:hover {
+    transform: scale(3,3);
+    border: solid 1px #797979;
+}

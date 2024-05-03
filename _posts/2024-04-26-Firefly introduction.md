@@ -29,7 +29,7 @@ date: 2024-04-26
       <p>We will continue after.</p> 
     </div>
     <div class="image-container">
-      <img src="{{ '/assets/img/March-7th.png' | relative_url }}" alt="可选的图片描述">
+      <img src="{{ '/assets/img/March-7th.png' | relative_url }}" alt="可选的图片描述" class="march-7">
     </div>
   </main>
 
