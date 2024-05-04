@@ -50,6 +50,7 @@ a:hover {
 /* Custom styles for your blog */
 /* Add your own CSS rules here */
 img.march-7:hover {
-    transform: scale(1.2,1.2);
+    transform: scale(1.2);
+    transition: transform 0.3s ease; /* Apply transition to the transform property */
     border: solid 1px #797979;
 }
