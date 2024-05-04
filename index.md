@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to Aria's blog
 ---
 
 - 命中概率计算公式
