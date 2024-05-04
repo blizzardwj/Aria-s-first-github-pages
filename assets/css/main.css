@@ -49,8 +49,14 @@ a:hover {
 
 /* Custom styles for your blog */
 /* Add your own CSS rules here */
-img.Firefly:hover {
-    transform: scale(1.5);
-    transition: transform 0.8s; /* Apply transition to the transform property */
-    border: solid 1px #797979;
+img.Firefly {
+    /* 将transition放在这里，以便普通状态和hover状态之间切换时都平滑过渡 */
+    transition: transform 0.8s, border 0.8s ease-in-out; /* 添加对边框的过渡效果 */
+    border: solid 0 transparent; /* 初始状态下设置透明边框 */
 }
+
+img.Firefly:hover {
+    transform: scale(1.5); /* 只在hover时改变transform */
+    border: solid 1px #797979; /* 边框可以保留在hover状态中，因为它不需要过渡效果 */
+}
+
