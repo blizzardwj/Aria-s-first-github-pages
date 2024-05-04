@@ -32,10 +32,10 @@ date: 2024-04-26
         <img src="{{ '/assets/img/March-7th.png'| relative url }}" alt="可选的图片描述”class="march-7">
     </div> -->
   </main>
-<!--   <footer>
+  <footer>
     <!-- Your footer content goes here -->
     <p>© 2024 Firefly introduction</p>
   </footer>
 
-  <script src="{{ site.baseurl }}/assets/js/main.js"></script> -->
+  <script src="{{ site.baseurl }}/assets/js/main.js"></script>
 </body>
