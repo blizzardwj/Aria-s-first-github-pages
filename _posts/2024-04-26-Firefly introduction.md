@@ -18,7 +18,7 @@ date: 2024-04-26
   <main>
     <!-- Your content goes here -->
     <div>
-      <img src="https://files.yande.re/image/9b27bc9176a56b63a6b2ee21fa912144/yande.re%201157680%20firefly%20honkai:_star_rail%20selfie%20stelle%20tagme.jpg" alt="Image description"/>
+      <img src="https://files.yande.re/image/9b27bc9176a56b63a6b2ee21fa912144/yande.re%201157680%20firefly%20honkai:_star_rail%20selfie%20stelle%20tagme.jpg" alt="Image description" class=Firefly/>
       <p align="center" style="font-size:20px;">Firefly and I</p>
       <p>Firefly is an important person when we take a walk through Penacony.</p>
       <p>She introduces herself to be our tour guide.</p>
@@ -29,7 +29,6 @@ date: 2024-04-26
       <p>We will continue after.</p> 
     </div>
     <div class="image-container">
-      <img src="{{ '/assets/img/March-7th.png' | relative_url }}" alt="可选的图片描述" class="march-7">
     </div>
   </main>
 
