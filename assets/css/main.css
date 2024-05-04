@@ -51,6 +51,6 @@ a:hover {
 /* Add your own CSS rules here */
 img.Firefly:hover {
     transform: scale(1.5);
-    transition: transform 0.8s ease; /* Apply transition to the transform property */
+    transition: transform 0.8s; /* Apply transition to the transform property */
     border: solid 1px #797979;
 }
