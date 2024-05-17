@@ -13,5 +13,6 @@ title: Aria's Honkai: star rail page
 - Some of them may make you laugh, some of them may make you feel disgusting, or some of them may let you have a cruch on them.
 - You don't have to spend any money on this game.
 - You can just play it once a week.
-- 
+- I hope the trip will have a end thay you like... BYE!
+  
 
