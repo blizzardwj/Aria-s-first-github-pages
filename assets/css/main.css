@@ -25,7 +25,11 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: #333;
-    background-color: #f5f5f5;
+    background-color: lightblue;
+    background-image: url('../img/一周年贺图.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .container {
@@ -58,12 +62,4 @@ img.Firefly {
 img.Firefly:hover {
     transform: scale(1.5); /* 只在hover时改变transform */
     border: solid 1px #797979; /* 边框可以保留在hover状态中，因为它不需要过渡效果 */
-}
-
-body {
-    background-color: rgb(255, 246, 69);
-    background-image: url('../img/一周年贺图.png');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
 }
