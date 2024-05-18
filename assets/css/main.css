@@ -60,3 +60,10 @@ img.Firefly:hover {
     border: solid 1px #797979; /* 边框可以保留在hover状态中，因为它不需要过渡效果 */
 }
 
+body {
+    background-color: rgb(255, 246, 69);
+    background-image: url('../img/一周年贺图.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
