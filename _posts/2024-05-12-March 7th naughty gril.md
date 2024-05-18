@@ -18,7 +18,7 @@ date: 2024-05-12
   <main>
     <!-- Your content goes here -->
     <div>
-      <img src="../assets/img/March-7th.png" alt="Image description" class="Match-7th"/>
+      <img src="{{ site.baseurl }}/assets/img/March-7th.png" alt="Image description" class="Match-7th"/>
       <p align="center" style="font-size:20px;">March 7th and I</p>
     </div>
     <!-- <div class="image-container">

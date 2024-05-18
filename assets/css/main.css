@@ -25,6 +25,7 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: #333;
+    opacity: 0.5;
     background-color: lightblue;
     background-image: url('../img/一周年贺图.png');
     background-size: contain;
