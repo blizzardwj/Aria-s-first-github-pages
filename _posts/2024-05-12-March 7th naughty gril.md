@@ -17,13 +17,13 @@ date: 2024-05-12
 
   <main>
     <!-- Your content goes here -->
-    <div>
-      <img src="{{ site.baseurl }}/assets/img/March-7th.png" alt="Image description" class="Match-7th"/>
+    <!-- <div>
+      <img src="{{'/assets/img/March-7th.png' | relative_url }}" alt="Image description" class="page-head-img"/>
       <p align="center" style="font-size:20px;">March 7th and I</p>
-    </div>
-    <!-- <div class="image-container">
-        <img src="{{ '/assets/img/March-7th.png'| relative url }}" alt="可选的图片描述”class="march-7">
     </div> -->
+    <div class="image-container">
+        <img src="{{ '/assets/img/March-7th.png'| relative_url }}" alt="可选的图片描述" class="page-head-img"/>
+    </div>
   </main>
   <footer>
     <!-- Your footer content goes here -->

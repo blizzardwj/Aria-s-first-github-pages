@@ -25,12 +25,23 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: #333;
-    opacity: 0.5;
-    background-color: lightblue;
+    position: relative; /* 为伪元素设置定位 */
+}
+
+body::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
     background-image: url('../img/一周年贺图.png');
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
+    opacity: 0.5; /* 设置背景图像的透明度 */
+    z-index: -1; /* 确保伪元素在所有内容的后面 */
+    pointer-events: none; /* 使伪元素不影响点击事件 */
 }
 
 .container {

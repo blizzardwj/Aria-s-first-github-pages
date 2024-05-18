@@ -18,7 +18,7 @@ date: 2024-04-26
   <main>
     <!-- Your content goes here -->
     <div>
-      <img src="https://files.yande.re/image/9b27bc9176a56b63a6b2ee21fa912144/yande.re%201157680%20firefly%20honkai:_star_rail%20selfie%20stelle%20tagme.jpg" alt="Image description" class="Firefly"/>
+      <img src="https://files.yande.re/image/9b27bc9176a56b63a6b2ee21fa912144/yande.re%201157680%20firefly%20honkai:_star_rail%20selfie%20stelle%20tagme.jpg" alt="Image description" class="page-head-img"/>
       <p align="center" style="font-size:20px;">Firefly and I</p>
       <p>Firefly is an important person when we take a walk through Penacony.</p>
       <p>She introduces herself to be our tour guide.</p>
