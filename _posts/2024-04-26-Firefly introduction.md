@@ -12,7 +12,7 @@ date: 2024-04-26
 
 <body>
   <header>
-    <h3>About firefly</h3>
+    <h2>About firefly</h2>
   </header>
 
   <main>
