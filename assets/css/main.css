@@ -54,7 +54,7 @@ blockquote {
     margin: 1em 0; /* 增加上下间距 */
 }
 
-.container {
+.flex-container {
     max-width: 960px;
     margin: 0 auto;
     padding: 20px;
@@ -86,4 +86,8 @@ img.Firefly {
 img.Firefly:hover {
     transform: scale(1.5); /* 只在hover时改变transform */
     border: solid 1px #797979; /* 边框可以保留在hover状态中，因为它不需要过渡效果 */
+}
+
+.special-post {
+    collor: red;
 }
