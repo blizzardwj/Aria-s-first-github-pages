@@ -34,8 +34,8 @@ date: 2024-04-26
   </main>
   <footer>
     <!-- Your footer content goes here -->
-    <p>© 2024 Aria's blog</p>
+<!--     <p>© 2024 Aria's blog</p>
   </footer>
 
   <script src="{{ site.baseurl }}/assets/js/main.js"></script>
-</body>
+</body> -->
