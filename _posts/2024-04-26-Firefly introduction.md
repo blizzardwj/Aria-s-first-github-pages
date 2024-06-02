@@ -27,7 +27,7 @@ date: 2024-04-26
       <p>When the Memory Zone Meme attacks their target Penacony.</p>
       <p>Our Firefly is accidentally killed by the Memory Zone Meme "Something Unto Death" and then she's gone...</p>
       <p>We will continue after.</p> 
-      <p>Thenak you for reading!!😊</p>
+      <p>Thank you for reading!!😊</p>
     </div>
 <!--     <div class="image-container">
         <img src="{{ '/assets/img/March-7th.png'| relative url }}" alt="可选的图片描述”class="march-7">
