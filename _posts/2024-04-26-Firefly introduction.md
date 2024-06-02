@@ -6,13 +6,13 @@ date: 2024-04-26
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title }}</title>
+  <title>About firefly</title>
   <link rel="stylesheet" href="{{'/assets/css/main.css' | relative_url }}">
 </head>
 
 <body>
   <header>
-    <h1>{{ page.title }}</h1>
+    <h3>About firefly</h3>
   </header>
 
   <main>
@@ -27,6 +27,7 @@ date: 2024-04-26
       <p>When the Memory Zone Meme attacks their target Penacony.</p>
       <p>Our Firefly is accidentally killed by the Memory Zone Meme "Something Unto Death" and then she's gone...</p>
       <p>We will continue after.</p> 
+      <p>Thenak you for reading!!😊</p>
     </div>
 <!--     <div class="image-container">
         <img src="{{ '/assets/img/March-7th.png'| relative url }}" alt="可选的图片描述”class="march-7">
